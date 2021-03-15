@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">labFB1</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="signup">signUp</string>
+    <string name="authentication_successful">Authentication Successful.</string>
+    <string name="logout">logout</string>
+    <string name="google">google</string>
+    <string name="send">send</string>
+    <string name="msg_token_fmt">Token</string>
+    <string name="default_notification_channel_id">def</string>
+    <string name="fcm_message">message</string>
+</resources>

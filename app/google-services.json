@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "737415423075",
+    "project_id": "labfb1-669fb",
+    "storage_bucket": "labfb1-669fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737415423075:android:cf5363f99f760c4b148456",
+        "android_client_info": {
+          "package_name": "wabbo.com.labfb1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737415423075-idehg1dd9jhqvs6ind16bgfum675j45l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wabbo.com.labfb1",
+            "certificate_hash": "ea2d96cf1d020fdc3d7de06ca61b501c516c8b37"
+          }
+        },
+        {
+          "client_id": "737415423075-745hhsqop81eo19p7kauriro0o5hdpav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjMIloeF4Y2pBdduGw5IZ1NJQkss1r96c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737415423075-745hhsqop81eo19p7kauriro0o5hdpav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
